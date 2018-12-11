@@ -1,0 +1,4 @@
+cargo:rustc-link-lib=cairo-gobject
+cargo:rustc-link-lib=cairo
+cargo:rustc-link-lib=gobject-2.0
+cargo:rustc-link-lib=glib-2.0

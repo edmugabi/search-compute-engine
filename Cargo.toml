@@ -1,0 +1,10 @@
+[package]
+name = "searchcompute_engine"
+version = "0.1.0"
+authors = ["Edgar Mugabi <edmugabi@gmail.com>"]
+
+[dependencies]
+
+[dependencies.gtk]
+version = "0.5.0"
+features = ["v3_10"]

@@ -1,0 +1,1 @@
+{"rustc":7311099760834594431,"features":"[\"cairo-sys-rs\", \"default\", \"glib\", \"glib-sys\", \"gobject-sys\", \"use_glib\", \"v1_12\"]","target":4944179213620976468,"profile":3515853926593532548,"path":554191908943656607,"deps":[],"local":[{"Precalculated":"0.5.0"}],"rustflags":[],"edition":"Edition2015"}

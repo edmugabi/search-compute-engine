@@ -1,0 +1,1 @@
+{"rustc":7311099760834594431,"features":"[]","target":8938129115433770411,"profile":4526152405984878336,"path":2054710637930792526,"deps":[["glib-sys v0.7.0","glib_sys",7252544729786899242],["gobject-sys v0.7.0","gobject_sys",12898111213442712648],["libc v0.2.45","libc",13656167085310734179]],"local":[{"Precalculated":"0.7.0"}],"rustflags":[],"edition":"Edition2015"}
